@@ -3,7 +3,7 @@
 A classifier for mango and jackfruit.This model classifies between mango and jackfruit and gives the appropriate output.
 ## Team members
 1.ARUN SUDHEER E https://github.com/arunsdr
-2.ANUL https://github.com/anuls
+2.ANUL K https://github.com/anul812
 ## Team Id
 BFH/rec5BvNunUX89UEsl/2021
 ## Link to walkthrough
